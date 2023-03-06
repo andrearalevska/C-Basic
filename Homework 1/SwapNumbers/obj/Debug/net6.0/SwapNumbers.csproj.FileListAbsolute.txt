@@ -1,0 +1,15 @@
+D:\VSC\Homework 1\SwapNumbers\bin\Debug\net6.0\SwapNumbers.exe
+D:\VSC\Homework 1\SwapNumbers\bin\Debug\net6.0\SwapNumbers.deps.json
+D:\VSC\Homework 1\SwapNumbers\bin\Debug\net6.0\SwapNumbers.runtimeconfig.json
+D:\VSC\Homework 1\SwapNumbers\bin\Debug\net6.0\SwapNumbers.dll
+D:\VSC\Homework 1\SwapNumbers\bin\Debug\net6.0\SwapNumbers.pdb
+D:\VSC\Homework 1\SwapNumbers\obj\Debug\net6.0\SwapNumbers.csproj.AssemblyReference.cache
+D:\VSC\Homework 1\SwapNumbers\obj\Debug\net6.0\SwapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSC\Homework 1\SwapNumbers\obj\Debug\net6.0\SwapNumbers.AssemblyInfoInputs.cache
+D:\VSC\Homework 1\SwapNumbers\obj\Debug\net6.0\SwapNumbers.AssemblyInfo.cs
+D:\VSC\Homework 1\SwapNumbers\obj\Debug\net6.0\SwapNumbers.csproj.CoreCompileInputs.cache
+D:\VSC\Homework 1\SwapNumbers\obj\Debug\net6.0\SwapNumbers.dll
+D:\VSC\Homework 1\SwapNumbers\obj\Debug\net6.0\refint\SwapNumbers.dll
+D:\VSC\Homework 1\SwapNumbers\obj\Debug\net6.0\SwapNumbers.pdb
+D:\VSC\Homework 1\SwapNumbers\obj\Debug\net6.0\SwapNumbers.genruntimeconfig.cache
+D:\VSC\Homework 1\SwapNumbers\obj\Debug\net6.0\ref\SwapNumbers.dll

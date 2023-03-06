@@ -1,0 +1,15 @@
+D:\VSC\Homework 1\Task 1\bin\Debug\net6.0\RealCalculator.exe
+D:\VSC\Homework 1\Task 1\bin\Debug\net6.0\RealCalculator.deps.json
+D:\VSC\Homework 1\Task 1\bin\Debug\net6.0\RealCalculator.runtimeconfig.json
+D:\VSC\Homework 1\Task 1\bin\Debug\net6.0\RealCalculator.dll
+D:\VSC\Homework 1\Task 1\bin\Debug\net6.0\RealCalculator.pdb
+D:\VSC\Homework 1\Task 1\obj\Debug\net6.0\RealCalculator.csproj.AssemblyReference.cache
+D:\VSC\Homework 1\Task 1\obj\Debug\net6.0\RealCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSC\Homework 1\Task 1\obj\Debug\net6.0\RealCalculator.AssemblyInfoInputs.cache
+D:\VSC\Homework 1\Task 1\obj\Debug\net6.0\RealCalculator.AssemblyInfo.cs
+D:\VSC\Homework 1\Task 1\obj\Debug\net6.0\RealCalculator.csproj.CoreCompileInputs.cache
+D:\VSC\Homework 1\Task 1\obj\Debug\net6.0\RealCalculator.dll
+D:\VSC\Homework 1\Task 1\obj\Debug\net6.0\refint\RealCalculator.dll
+D:\VSC\Homework 1\Task 1\obj\Debug\net6.0\RealCalculator.pdb
+D:\VSC\Homework 1\Task 1\obj\Debug\net6.0\RealCalculator.genruntimeconfig.cache
+D:\VSC\Homework 1\Task 1\obj\Debug\net6.0\ref\RealCalculator.dll

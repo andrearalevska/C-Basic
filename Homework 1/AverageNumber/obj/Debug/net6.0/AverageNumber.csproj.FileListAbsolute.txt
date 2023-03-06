@@ -1,0 +1,15 @@
+D:\VSC\Homework 1\AverageNumber\bin\Debug\net6.0\AverageNumber.exe
+D:\VSC\Homework 1\AverageNumber\bin\Debug\net6.0\AverageNumber.deps.json
+D:\VSC\Homework 1\AverageNumber\bin\Debug\net6.0\AverageNumber.runtimeconfig.json
+D:\VSC\Homework 1\AverageNumber\bin\Debug\net6.0\AverageNumber.dll
+D:\VSC\Homework 1\AverageNumber\bin\Debug\net6.0\AverageNumber.pdb
+D:\VSC\Homework 1\AverageNumber\obj\Debug\net6.0\AverageNumber.csproj.AssemblyReference.cache
+D:\VSC\Homework 1\AverageNumber\obj\Debug\net6.0\AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSC\Homework 1\AverageNumber\obj\Debug\net6.0\AverageNumber.AssemblyInfoInputs.cache
+D:\VSC\Homework 1\AverageNumber\obj\Debug\net6.0\AverageNumber.AssemblyInfo.cs
+D:\VSC\Homework 1\AverageNumber\obj\Debug\net6.0\AverageNumber.csproj.CoreCompileInputs.cache
+D:\VSC\Homework 1\AverageNumber\obj\Debug\net6.0\AverageNumber.dll
+D:\VSC\Homework 1\AverageNumber\obj\Debug\net6.0\refint\AverageNumber.dll
+D:\VSC\Homework 1\AverageNumber\obj\Debug\net6.0\AverageNumber.pdb
+D:\VSC\Homework 1\AverageNumber\obj\Debug\net6.0\AverageNumber.genruntimeconfig.cache
+D:\VSC\Homework 1\AverageNumber\obj\Debug\net6.0\ref\AverageNumber.dll
