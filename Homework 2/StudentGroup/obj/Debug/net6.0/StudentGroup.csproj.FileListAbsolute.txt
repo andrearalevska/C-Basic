@@ -1,0 +1,15 @@
+D:\VSC\Homework\StudentGroup\obj\Debug\net6.0\StudentGroup.csproj.AssemblyReference.cache
+D:\VSC\Homework\StudentGroup\obj\Debug\net6.0\StudentGroup.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSC\Homework\StudentGroup\obj\Debug\net6.0\StudentGroup.AssemblyInfoInputs.cache
+D:\VSC\Homework\StudentGroup\obj\Debug\net6.0\StudentGroup.AssemblyInfo.cs
+D:\VSC\Homework\StudentGroup\obj\Debug\net6.0\StudentGroup.csproj.CoreCompileInputs.cache
+D:\VSC\Homework\StudentGroup\bin\Debug\net6.0\StudentGroup.exe
+D:\VSC\Homework\StudentGroup\bin\Debug\net6.0\StudentGroup.deps.json
+D:\VSC\Homework\StudentGroup\bin\Debug\net6.0\StudentGroup.runtimeconfig.json
+D:\VSC\Homework\StudentGroup\bin\Debug\net6.0\StudentGroup.dll
+D:\VSC\Homework\StudentGroup\bin\Debug\net6.0\StudentGroup.pdb
+D:\VSC\Homework\StudentGroup\obj\Debug\net6.0\StudentGroup.dll
+D:\VSC\Homework\StudentGroup\obj\Debug\net6.0\refint\StudentGroup.dll
+D:\VSC\Homework\StudentGroup\obj\Debug\net6.0\StudentGroup.pdb
+D:\VSC\Homework\StudentGroup\obj\Debug\net6.0\StudentGroup.genruntimeconfig.cache
+D:\VSC\Homework\StudentGroup\obj\Debug\net6.0\ref\StudentGroup.dll
