@@ -19,7 +19,7 @@ namespace Task_2.Models
         {
             if (string.IsNullOrEmpty(name))
             {
-                Console.WriteLine($"Invalid value for: {name}");
+                Console.WriteLine($"Invalid value for name");
                 Name = "Unknown";
             }
             else
@@ -28,7 +28,7 @@ namespace Task_2.Models
             }
             if (string.IsNullOrEmpty(breed))
             {
-                Console.WriteLine($"Invalid value for: {breed}");
+                Console.WriteLine($"Invalid value for breed");
                 Breed = "Unknown";
             }
             else
@@ -37,7 +37,7 @@ namespace Task_2.Models
             }
             if (string.IsNullOrEmpty(color))
             {
-                Console.WriteLine($"Invalid input for: {color}");
+                Console.WriteLine($"Invalid input for color");
                 Color = "Unknown";
             }
             else

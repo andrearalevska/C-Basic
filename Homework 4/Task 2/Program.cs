@@ -1,18 +1,19 @@
 ﻿using Task_2.Models;
 
-Dog dog = new Dog();
-
 Console.WriteLine("Enter the name of the dog here:");
-dog.Name = Console.ReadLine();
+string name = Console.ReadLine();
 
 Console.WriteLine("Enter the breed of the dog here:");
-dog.Breed = Console.ReadLine();
+string breed = Console.ReadLine();
 
 Console.WriteLine("Enter the color of the dog here:");
-dog.Color = Console.ReadLine();
+string color = Console.ReadLine();
+
+Dog dog = new Dog(name, breed, color);
 
 Console.WriteLine("Now choose what you want your dog to do: Type 1 for eating, 2 for playing and 3 for chaising tail.");
 string choise =  Console.ReadLine();
+
 
 if(choise == "1")
 {
