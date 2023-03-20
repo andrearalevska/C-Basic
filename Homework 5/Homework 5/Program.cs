@@ -9,3 +9,5 @@ rectangle.GetPerimeter();
 circle.GetArea();
 circle.GetPerimeter();
 
+rectangle.Move(rectangle);
+circle.Move(circle);
