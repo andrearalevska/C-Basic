@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ralev\\source\\repos\\andrearalevska\\Csharp-Basic\\Homework 6\\Task 2&3\\Task 2&3\\Task 2&3_EmployeeApp.csproj": {}
+    "C:\\Users\\ralev\\Source\\Repos\\andrearalevska\\Csharp-Basic\\Homework 6\\Task 2&3\\Task 2&3\\Task 2&3_EmployeeApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ralev\\source\\repos\\andrearalevska\\Csharp-Basic\\Homework 6\\Task 2&3\\EmployeeAppDomain\\EmployeeAppDomain.csproj": {
+    "C:\\Users\\ralev\\Source\\Repos\\andrearalevska\\Csharp-Basic\\Homework 6\\Task 2&3\\EmployeeAppDomain\\EmployeeAppDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ralev\\source\\repos\\andrearalevska\\Csharp-Basic\\Homework 6\\Task 2&3\\EmployeeAppDomain\\EmployeeAppDomain.csproj",
+        "projectUniqueName": "C:\\Users\\ralev\\Source\\Repos\\andrearalevska\\Csharp-Basic\\Homework 6\\Task 2&3\\EmployeeAppDomain\\EmployeeAppDomain.csproj",
         "projectName": "EmployeeAppDomain",
-        "projectPath": "C:\\Users\\ralev\\source\\repos\\andrearalevska\\Csharp-Basic\\Homework 6\\Task 2&3\\EmployeeAppDomain\\EmployeeAppDomain.csproj",
+        "projectPath": "C:\\Users\\ralev\\Source\\Repos\\andrearalevska\\Csharp-Basic\\Homework 6\\Task 2&3\\EmployeeAppDomain\\EmployeeAppDomain.csproj",
         "packagesPath": "C:\\Users\\ralev\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ralev\\source\\repos\\andrearalevska\\Csharp-Basic\\Homework 6\\Task 2&3\\EmployeeAppDomain\\obj\\",
         "projectStyle": "PackageReference",
@@ -64,12 +64,12 @@
         }
       }
     },
-    "C:\\Users\\ralev\\source\\repos\\andrearalevska\\Csharp-Basic\\Homework 6\\Task 2&3\\Task 2&3\\Task 2&3_EmployeeApp.csproj": {
+    "C:\\Users\\ralev\\Source\\Repos\\andrearalevska\\Csharp-Basic\\Homework 6\\Task 2&3\\Task 2&3\\Task 2&3_EmployeeApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ralev\\source\\repos\\andrearalevska\\Csharp-Basic\\Homework 6\\Task 2&3\\Task 2&3\\Task 2&3_EmployeeApp.csproj",
+        "projectUniqueName": "C:\\Users\\ralev\\Source\\Repos\\andrearalevska\\Csharp-Basic\\Homework 6\\Task 2&3\\Task 2&3\\Task 2&3_EmployeeApp.csproj",
         "projectName": "Task 2&3_EmployeeApp",
-        "projectPath": "C:\\Users\\ralev\\source\\repos\\andrearalevska\\Csharp-Basic\\Homework 6\\Task 2&3\\Task 2&3\\Task 2&3_EmployeeApp.csproj",
+        "projectPath": "C:\\Users\\ralev\\Source\\Repos\\andrearalevska\\Csharp-Basic\\Homework 6\\Task 2&3\\Task 2&3\\Task 2&3_EmployeeApp.csproj",
         "packagesPath": "C:\\Users\\ralev\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ralev\\source\\repos\\andrearalevska\\Csharp-Basic\\Homework 6\\Task 2&3\\Task 2&3\\obj\\",
         "projectStyle": "PackageReference",
@@ -93,8 +93,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ralev\\source\\repos\\andrearalevska\\Csharp-Basic\\Homework 6\\Task 2&3\\EmployeeAppDomain\\EmployeeAppDomain.csproj": {
-                "projectPath": "C:\\Users\\ralev\\source\\repos\\andrearalevska\\Csharp-Basic\\Homework 6\\Task 2&3\\EmployeeAppDomain\\EmployeeAppDomain.csproj"
+              "C:\\Users\\ralev\\Source\\Repos\\andrearalevska\\Csharp-Basic\\Homework 6\\Task 2&3\\EmployeeAppDomain\\EmployeeAppDomain.csproj": {
+                "projectPath": "C:\\Users\\ralev\\Source\\Repos\\andrearalevska\\Csharp-Basic\\Homework 6\\Task 2&3\\EmployeeAppDomain\\EmployeeAppDomain.csproj"
               }
             }
           }

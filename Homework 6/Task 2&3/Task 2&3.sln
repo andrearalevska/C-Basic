@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 2&3_EmployeeApp", "Task 2&3\Task 2&3_EmployeeApp.csproj", "{9C757A5E-E1C7-473A-99CE-A71A3006AAD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeApp", "Task 2&3\EmployeeApp.csproj", "{9C757A5E-E1C7-473A-99CE-A71A3006AAD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeAppDomain", "EmployeeAppDomain\EmployeeAppDomain.csproj", "{24E89809-E046-42A4-A245-6DBE3CB54154}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeAppDomain", "EmployeeAppDomain\EmployeeAppDomain.csproj", "{24E89809-E046-42A4-A245-6DBE3CB54154}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
