@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = EmployeeAppDomain
-build_property.ProjectDir = C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\EmployeeAppDomain\
+build_property.RootNamespace = Task_2_3
+build_property.ProjectDir = C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\Task 2&3\
