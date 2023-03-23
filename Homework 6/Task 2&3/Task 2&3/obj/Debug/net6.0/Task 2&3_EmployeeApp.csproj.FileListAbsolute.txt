@@ -1,0 +1,18 @@
+C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\Task 2&3\bin\Debug\net6.0\Task 2&3_EmployeeApp.exe
+C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\Task 2&3\bin\Debug\net6.0\Task 2&3_EmployeeApp.deps.json
+C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\Task 2&3\bin\Debug\net6.0\Task 2&3_EmployeeApp.runtimeconfig.json
+C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\Task 2&3\bin\Debug\net6.0\Task 2&3_EmployeeApp.dll
+C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\Task 2&3\bin\Debug\net6.0\Task 2&3_EmployeeApp.pdb
+C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\Task 2&3\bin\Debug\net6.0\EmployeeAppDomain.dll
+C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\Task 2&3\bin\Debug\net6.0\EmployeeAppDomain.pdb
+C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\Task 2&3\obj\Debug\net6.0\Task 2&3_EmployeeApp.csproj.AssemblyReference.cache
+C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\Task 2&3\obj\Debug\net6.0\Task 2&3_EmployeeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\Task 2&3\obj\Debug\net6.0\Task 2&3_EmployeeApp.AssemblyInfoInputs.cache
+C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\Task 2&3\obj\Debug\net6.0\Task 2&3_EmployeeApp.AssemblyInfo.cs
+C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\Task 2&3\obj\Debug\net6.0\Task 2&3_EmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\Task 2&3\obj\Debug\net6.0\Task 2&3_EmployeeApp.csproj.CopyComplete
+C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\Task 2&3\obj\Debug\net6.0\Task 2&3_EmployeeApp.dll
+C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\Task 2&3\obj\Debug\net6.0\refint\Task 2&3_EmployeeApp.dll
+C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\Task 2&3\obj\Debug\net6.0\Task 2&3_EmployeeApp.pdb
+C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\Task 2&3\obj\Debug\net6.0\Task 2&3_EmployeeApp.genruntimeconfig.cache
+C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\Task 2&3\obj\Debug\net6.0\ref\Task 2&3_EmployeeApp.dll

@@ -1,0 +1,12 @@
+C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\EmployeeAppDomain\bin\Debug\net6.0\EmployeeAppDomain.deps.json
+C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\EmployeeAppDomain\bin\Debug\net6.0\EmployeeAppDomain.dll
+C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\EmployeeAppDomain\bin\Debug\net6.0\EmployeeAppDomain.pdb
+C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\EmployeeAppDomain\obj\Debug\net6.0\EmployeeAppDomain.csproj.AssemblyReference.cache
+C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\EmployeeAppDomain\obj\Debug\net6.0\EmployeeAppDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\EmployeeAppDomain\obj\Debug\net6.0\EmployeeAppDomain.AssemblyInfoInputs.cache
+C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\EmployeeAppDomain\obj\Debug\net6.0\EmployeeAppDomain.AssemblyInfo.cs
+C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\EmployeeAppDomain\obj\Debug\net6.0\EmployeeAppDomain.csproj.CoreCompileInputs.cache
+C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\EmployeeAppDomain\obj\Debug\net6.0\EmployeeAppDomain.dll
+C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\EmployeeAppDomain\obj\Debug\net6.0\refint\EmployeeAppDomain.dll
+C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\EmployeeAppDomain\obj\Debug\net6.0\EmployeeAppDomain.pdb
+C:\Users\ralev\source\repos\andrearalevska\Csharp-Basic\Homework 6\Task 2&3\EmployeeAppDomain\obj\Debug\net6.0\ref\EmployeeAppDomain.dll
