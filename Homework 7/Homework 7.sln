@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 1", "Task 1\Task 1.csproj", "{E86BB551-7A1B-49AB-8572-564A6B356E98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 2", "Task 2\Task 2.csproj", "{70DCD648-C037-4066-A7C1-6B45D420C404}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2.Domein", "Task2.Domein\Task2.Domein.csproj", "{D02990EB-BC69-41FD-9AE5-34191454C7E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E86BB551-7A1B-49AB-8572-564A6B356E98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E86BB551-7A1B-49AB-8572-564A6B356E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E86BB551-7A1B-49AB-8572-564A6B356E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E86BB551-7A1B-49AB-8572-564A6B356E98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70DCD648-C037-4066-A7C1-6B45D420C404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70DCD648-C037-4066-A7C1-6B45D420C404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70DCD648-C037-4066-A7C1-6B45D420C404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70DCD648-C037-4066-A7C1-6B45D420C404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D02990EB-BC69-41FD-9AE5-34191454C7E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D02990EB-BC69-41FD-9AE5-34191454C7E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D02990EB-BC69-41FD-9AE5-34191454C7E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D02990EB-BC69-41FD-9AE5-34191454C7E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58D749D8-80BD-40FC-95FD-5C469D244175}
+	EndGlobalSection
+EndGlobal
